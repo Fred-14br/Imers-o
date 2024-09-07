@@ -44,11 +44,8 @@ Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma su
 
 **Autor:**
 
-[Seu nome]
+[Amâncio Fred]
 
-**Licença:**
-
-[Mencione a licença utilizada, por exemplo, MIT]
 
 **Observações:**
 
