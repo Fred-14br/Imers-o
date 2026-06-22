@@ -67,11 +67,7 @@ const dados = [
 ];
 ```
 
-**Com este README, você terá uma documentação clara e concisa do seu projeto, facilitando a compreensão tanto para você quanto para outros desenvolvedores.**
 
-**Gostaria de adicionar mais alguma coisa ao README?** 
-
-**Dicas:**
 
 * **Use Markdown:** O Markdown é uma linguagem de marcação simples e fácil de aprender, ideal para criar arquivos README.
 * **Seja claro e conciso:** Use frases curtas e objetivas, evitando jargões técnicos desnecessários.
