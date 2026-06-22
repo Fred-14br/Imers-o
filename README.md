@@ -42,36 +42,4 @@ Este aplicativo web simples permite aos usuários pesquisar por jogadores de bas
 
 Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma sugestão de melhoria, por favor, abra um issue ou faça um pull request.
 
-**Autor:**
 
-[Amâncio Fred]
-
-
-**Observações:**
-
-* **Adapte este README:** Personalize este README com informações mais específicas sobre o seu projeto, como tecnologias adicionais utilizadas, dependências, instruções de instalação, etc.
-* **Adicione mais detalhes:** Inclua informações sobre o arquivo `dados.js`, como a estrutura dos dados e de onde eles foram obtidos.
-* **Explique a lógica:** Se houver partes do código JavaScript que você considera complexas ou que merecem uma explicação mais detalhada, adicione comentários ao README ou ao próprio código.
-* **Use imagens:** Se quiser tornar o README mais visualmente atraente, você pode adicionar imagens ou capturas de tela da aplicação.
-
-**Exemplo de estrutura para o arquivo `dados.js`:**
-
-```javascript
-const dados = [
-  {
-    jogador: "LeBron James",
-    descricao: "Considerado um dos maiores jogadores de todos os tempos.",
-    link: "https://www.nba.com/players/lebron-james"
-  },
-  // ... outros jogadores
-];
-```
-
-
-
-* **Use Markdown:** O Markdown é uma linguagem de marcação simples e fácil de aprender, ideal para criar arquivos README.
-* **Seja claro e conciso:** Use frases curtas e objetivas, evitando jargões técnicos desnecessários.
-* **Organize as informações:** Divida o README em seções lógicas, como descrição, funcionalidades, tecnologias, etc.
-* **Utilize exemplos:** Use exemplos de código para ilustrar conceitos e funcionalidades.
-
-Com essas dicas, você poderá criar um README de alta qualidade para o seu projeto.
